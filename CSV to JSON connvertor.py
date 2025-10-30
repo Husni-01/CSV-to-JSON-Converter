@@ -25,4 +25,5 @@ for file_name in os.listdir(input_folder):
         
         print(f"✅ Converted {file_name} → {os.path.basename(json_path)}")
 
-print("All CSV files have been converted to JSON!")
+print("All CSV files have been converted to JSON!.")
+
